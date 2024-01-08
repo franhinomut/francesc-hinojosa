@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: project_6.png
+img: Project_6.png
 alt: image-alt
 project-date: 
 client: 
