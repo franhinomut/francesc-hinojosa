@@ -16,14 +16,14 @@ description: <br>
 
            <hr></hr>
 
-           <h3>Text Classifier App</h3><br>
+           <h3>Chatbot app using Mistral 7b</h3><br>
 
-           <p>We are now going to create the chatbot app using the Mistral 7b Instruct model, a large language model fine-tuned for following instructions. We are going to access it through the Hugging Face API.</p>
+           <p>I create a chatbot app using the Mistral 7b Instruct model, a large language model fine-tuned for following instructions. I am going to access it through the Hugging Face API.</p>
 
-           <p>We are going to deploy de chatbt as a Gradio app using an space in Hugging Face. You can use the chatbot in this  <a>href="https://huggingface.co/spaces/franhinomut/Chatbot-Mistral-7b" target="_blank"> link</a></p>
+           <p>I deploy the chatbot as a Gradio app using Hugging Face space that can be accessed throug this <a href="https://huggingface.co/spaces/franhinomut/Chatbot-Mistral-7b" target="_blank"> link</a></p>
            
            
-           <p>Gradio is an open source Python library that allows you to create interactive web-based interfaces for machine learning models quickly and easily.</>
+           <p>Gradio is an open source Python library that allows you to create interactive web-based interfaces for machine learning models quickly and easily.</p>
 
            <p><a href="https://github.com/franhinomut/Chatbot-app-using-Mistral-7b" target="_blank">View code on GitHub</a></p>
             <br>
