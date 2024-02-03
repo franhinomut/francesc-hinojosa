@@ -12,7 +12,7 @@ description: <br>
 
            <p>I'm in the final stages of creating a personal assistant tailored to enhance my productivity as a data scientist. The initial demonstration will be ready in the upcoming days.</p>
 
-           <br><p><b>NPL - Tranformers - LLMs - LangChain</b></p>
+           <p>Prior to that, I constructed various applications to familiarize myself with diverse language models (LLMs) and technologies, laying the foundation for the development of my personal assistant.</p>
 
 
 ---
