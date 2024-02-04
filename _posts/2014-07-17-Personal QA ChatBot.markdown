@@ -15,6 +15,16 @@ description: <br>
            <p>Prior to that, I constructed various applications to familiarize myself with diverse language models (LLMs) and technologies, laying the foundation for the development of my personal assistant.</p>
 
            <hr></hr>
+           <h3>ChatBot Using Local LLM</h3><br>
+
+           <h4>Exploring RAG using Ollama, LangChain, and Streamlit</h4><br>
+
+           <p>In this project, I explore the concept of Retrieval Augmented Generation (RAG). I build a web app that accepts, through upload, a CSV document and answers questions about that document.</p>
+
+           <p><img class="img-responsive" src="img/chatbot-Local_LLM.png" alt="profile-pic"></p>
+
+           <hr></hr>
+
 
            <h3>Chatbot app using Mistral 7b</h3><br>
 
