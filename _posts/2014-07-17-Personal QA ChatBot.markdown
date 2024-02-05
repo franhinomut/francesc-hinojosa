@@ -21,7 +21,16 @@ description: <br>
 
            <p>In this project, I explore the concept of Retrieval Augmented Generation (RAG). I build a web app that accepts, through upload, a CSV document and answers questions about that document.</p>
 
-           <p><img class="img-responsive" src="img/chatbot-Local_LLM.png" alt="profile-pic"></p>
+           <p><strong>I use for project, Ollama, LangChain and Streamlit</strong></p>
+           
+           <p><strong>Business use case</strong><br>
+
+           <p>Companies often receive thousands of resumes for each job posting and employ dedicated screening officers to screen qualified candidates. We can ask the chatbot questions to quickly find out, for example, which candidate has a specific skill.</p>
+
+           <p><img class="img-responsive" src="img/ChatBot-Streamlit.png" alt="profile-pic"></p>
+
+            <p><a href="https://github.com/franhinomut/Chatbot-local-LLM" target="_blank">View code on GitHub</a></p>
+            <br>
 
            <hr></hr>
 
